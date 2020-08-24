@@ -6,3 +6,4 @@ Github doesn't support Map visualization. So view the 'Project Final.ipynb' file
 https://nbviewer.jupyter.org/github/ashreetsangotra/Clustering-Geolocation-Data-Intelligently-in-Python/blob/master/Project%20Final.ipynb
 
 # My Blog post on this Project:
+https://www.ashreet.com/post/clustering-geolocation-data-of-taxi-ranks
