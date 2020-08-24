@@ -5,4 +5,4 @@ Taking Taxi rank location data for Johannesburg, South Africa and clustering the
 Github doesn't support Map visualization. So view the 'Project Final.ipynb' file with geo spatial visualizations click here:
 https://nbviewer.jupyter.org/github/ashreetsangotra/Clustering-Geolocation-Data-Intelligently-in-Python/blob/master/Project%20Final.ipynb
 
-#My Blog post on this Project:
+# My Blog post on this Project:
